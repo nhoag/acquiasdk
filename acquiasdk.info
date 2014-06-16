@@ -1,0 +1,5 @@
+name = Acquia SDK for PHP
+description = Acquia SDK for PHP provides a Drupal interface to the Acquia SDK for PHP library.
+package = Development
+core = 7.x
+php = 5.3.2
